@@ -1,0 +1,17 @@
+[33mcommit 07fcc121b02eafce0734d860d229d6f9bdf7305c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: HenryDani <74924895+HenryDani@users.noreply.github.com>
+Date:   Wed Aug 11 16:46:29 2021 -0500
+
+    Añadimos un comentario
+
+[33mcommit 95e88edb1cc64da5fa28daaf485210f37d98e1c1[m
+Author: HenryDani <74924895+HenryDani@users.noreply.github.com>
+Date:   Wed Aug 11 16:39:13 2021 -0500
+
+    añadi la carpeta .vscode al archivo .gitignore
+
+[33mcommit 5d30d80d4a8c24d91379d3c46ac64e3bffcc5187[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: HenryDani <74924895+HenryDani@users.noreply.github.com>
+Date:   Wed Aug 11 16:25:42 2021 -0500
+
+    Initial commit
